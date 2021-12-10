@@ -6,7 +6,7 @@ The Exploratory Data Analysis is done as a result to see that fandango is exagge
 
 ### All Reviews in Histogram 
 *Stars* and *Rating* of Fandango compared to the rating of the other wesites are plotted as an histogram. 
-![All Reviews vs Fandando](Movie-Critics-Exploratory-Data-Analysis-EDA\Images\histogram.png)
+![All Reviews vs Fandando](https://github.com/VishalxRana/Movie-Critics-Exploratory-Data-Analysis-EDA/blob/main/Images/histogram.png)
 
 ### All reviews 
 Here are all the reviews plotted in the below image. It can be clearly seen here that the *Stars* and *Rating* are higest rated. 
@@ -30,3 +30,6 @@ In this below cluster map in the bottom right corner section, it can be clearly 
 ### Worst Performing Movies Compared 
 Here are some of the worst performing movies which are compared to the fandango rating and it can be clearly seen the reviews are higher for fandango. 
 ![Worst performing movies compared](Movie-Critics-Exploratory-Data-Analysis-EDA\Images\Worst Movies.png)
+
+# Conclusion 
+Therefore it can be concluded that according to the data, fandango ratings are misleading and fandango might be driving their sales by manipulating the rating. 
