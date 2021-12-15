@@ -1,6 +1,6 @@
 # Movie Critics EDA
 
-The data used for analysis is of the Fandango company which sells movie tickets via their website as well as through their mobile app. \
+The data used for analysis is of the Fandango company which sells movie tickets via their website as well as through their mobile app. 
 
 The Exploratory Data Analysis is done as a result to see that fandango is exaggerating the reviews of the movies as an outcome to increase their sales. The Rating of different websites like IMDb, Metacritics and RottenTomatoes are considered as an comparison.
 
